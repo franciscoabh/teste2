@@ -2,10 +2,7 @@ Arquivo asdaiofjas
 asdf
 asd
 Alteração em arquivo existente
-
-
 Nova correçao para testes do GIT!!!
-
 Mais correção SupInt!!
 Mais correção SupInt!!
 df
